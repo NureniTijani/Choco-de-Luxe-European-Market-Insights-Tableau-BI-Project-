@@ -1,0 +1,2 @@
+# Choco-de-Luxe-European-Market-Insights-Tableau-BI-Project-
+A comprehensive Tableau BI project analyzing Choco de Luxe’s European market performance. Integrates detailed sales, product, channel, and location data to assess profitability, delivery outcomes, organic product demand, and salesperson productivity, providing clear insights for strategic decision-making and operational improvement across regions.
